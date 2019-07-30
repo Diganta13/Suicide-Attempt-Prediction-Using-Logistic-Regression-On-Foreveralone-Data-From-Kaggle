@@ -1,0 +1,1 @@
+# Suicide-Attempt-Prediction-Using-Logistic-Regression-On-Foreveralone-Data-From-Kaggle
